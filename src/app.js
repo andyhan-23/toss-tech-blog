@@ -6,3 +6,5 @@ const hasMocks = initMocks();
 if (hasMocks) {
   start();
 }
+
+console.log('test');
